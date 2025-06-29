@@ -1,0 +1,2 @@
+# Python-Practice
+This repository is to used for my beginner level python code. Basics level of python code you can find inside of it. It was so fun and interesting to do these codes when I was learning python code. Hope you will enjoy too.
